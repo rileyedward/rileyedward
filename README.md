@@ -12,6 +12,6 @@
   <img 
 		src="./TheLaravelEcosystem.png" 
 		alt="The Laravel Ecosystem" 
-		style="max-width: 550px; height:auto;"
+		style="max-width: 350px; height:auto;"
 	/>
 </a>
