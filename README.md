@@ -4,7 +4,7 @@
 
 <p>My primary focus is on SvelteKit and TypeScript, but I also have extensive experience with and enjoy working with other technologies like Laravel and Vue.</p>
 
-<h2>Checkout my Talk!</h2>
+<h2>My Talk on Laravel!</h2>
 
 <p style="max-width: 375px;">In this talk, I explore Laravel’s core features and its ecosystem of first-party packages, showcasing how they enhance development and streamline your projects.</p>
 
