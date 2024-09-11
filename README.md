@@ -6,7 +6,7 @@
 
 <h2>My Talk on Laravel!</h2>
 
-<p style="max-width: 375px;">In this talk, I explore Laravel’s core features and its ecosystem of first-party packages, showcasing how they enhance development and streamline your projects.</p>
+<p style="max-width: 375px;">Deep dive with me into the Laravel framework and its ecosystem that makes it an excellent choice for building web applications.</p>
 
 <a href="https://www.youtube.com/watch?v=kHjGp0Xtinw" target="_blank">
   <img 
