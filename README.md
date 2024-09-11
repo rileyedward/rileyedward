@@ -6,7 +6,7 @@
 
 <h2>Checkout my Talk!</h2>
 
-<p style="max-width: 550px;">In this talk, I explore Laravel’s core features and its ecosystem of first-party packages, showcasing how they enhance development and streamline your projects.</p>
+<p style="max-width: 375px;">In this talk, I explore Laravel’s core features and its ecosystem of first-party packages, showcasing how they enhance development and streamline your projects.</p>
 
 <a href="https://www.youtube.com/watch?v=kHjGp0Xtinw" target="_blank">
   <img 
